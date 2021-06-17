@@ -1,3 +1,3 @@
 # SampleGit
 
-This is a sample git repository
+This is a sample git repo
